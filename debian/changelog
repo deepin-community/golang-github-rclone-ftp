@@ -1,5 +1,17 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-rclone-ftp (1.0.0-220913-160-1) unstable; urgency=medium
 
-  * Initial release
+  * New upstream version (Closes: #1025240)
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Matthew Vernon <matthew@debian.org>  Thu, 01 Dec 2022 11:00:51 +0000
+
+golang-github-rclone-ftp (1.0.0-210902h-2) unstable; urgency=medium
+
+  * source upload for migration to testing
+
+ -- Drew Parsons <dparsons@debian.org>  Mon, 28 Nov 2022 11:17:01 +0100
+
+golang-github-rclone-ftp (1.0.0-210902h-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1024569)
+
+ -- Drew Parsons <dparsons@debian.org>  Mon, 21 Nov 2022 15:12:09 +0100
